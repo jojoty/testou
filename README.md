@@ -1,2 +1,2 @@
 # testou
-teste des bout sde scripts
+teste des bouts de scripts
